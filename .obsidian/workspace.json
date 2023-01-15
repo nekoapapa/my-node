@@ -148,8 +148,9 @@
       "obsidian-javascript-init:Run Init JavaScript": false
     }
   },
-  "active": "b574372ae0c82692",
+  "active": "1f2abc18f5994686",
   "lastOpenFiles": [
+    "未命名.md",
     "JavaGuide/README.md",
     "目錄.md",
     "JavaGuide/docs/java/basis/why-there-only-value-passing-in-java.md",
@@ -158,7 +159,6 @@
     "MySQL数据库实战/2 必备SQL和表关系及授权/day26.md",
     "MySQL数据库实战/1 MySQL入门/笔记/day25.md",
     "MySQL数据库实战/3 SQL强化和实践/day27含答案.md",
-    "JavaGuide/docs/javaguide/intro.md",
-    "JavaGuide/README.en.md"
+    "JavaGuide/docs/javaguide/intro.md"
   ]
 }
