@@ -1,0 +1,5 @@
+[mysql基礎](MySQL数据库实战/1%20MySQL入门/笔记/day25.md)
+[表關係授權](MySQL数据库实战/2%20必备SQL和表关系及授权/day26.md)
+[實作](MySQL数据库实战/3%20SQL强化和实践/day27含答案.md)
+[函數存儲過程](MySQL数据库实战/4%20索引和函数及存储过程/day28.md)
+[python操作](MySQL数据库实战/5%20Python操作MySQL和实战/day29.md)
