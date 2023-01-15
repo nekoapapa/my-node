@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "6343428d2629ff75",
+    "type": "split",
+    "children": [
+      {
+        "id": "22296905400a32c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4058c9d940763d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "目錄.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07809c33af0649ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "1049d36bf794d4f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6472b46aaf68f9d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3f64831c1814ba4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5c462211535fcd6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d137207289fa0d93",
+    "type": "split",
+    "children": [
+      {
+        "id": "b784741be97b1511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5303d072c6806a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "目錄.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1ae3297c6fd577e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "目錄.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cce12b4f8efdc1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9872b466e77236f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "目錄.md"
+              }
+            }
+          },
+          {
+            "id": "f4a5200cf60fd8f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "f4a5200cf60fd8f2",
+  "lastOpenFiles": [
+    "MySQL数据库实战/2 必备SQL和表关系及授权/day26.md",
+    "MySQL数据库实战/mySQL.md",
+    "目錄.md",
+    "MySQL数据库实战/1 MySQL入门/笔记/day25.md",
+    "流行病學/流行病學筆記 66ab6cab46e74ec2bfacc694cfc32356.md",
+    "流行病學/流行病學筆記 66ab6cab46e74ec2bfacc694cfc32356/慢性癌症流病 f4a8ad5ee7ed4900a178cdd9076083d3.md",
+    "流行病學/流行病學筆記 66ab6cab46e74ec2bfacc694cfc32356/名詞解釋 afdd164200d64c18adc05629624eadbc.md",
+    "流行病學/流行病學筆記 66ab6cab46e74ec2bfacc694cfc32356/實驗型流病 0cc20b255ee041889e5ee544dded164f.md",
+    "流行病學/流行病學筆記 66ab6cab46e74ec2bfacc694cfc32356/疾病測量 5fc9d6460823465bb20e9d9eeb26560a.md",
+    "MySQL数据库实战/5 Python操作MySQL和实战/day29.md"
+  ]
+}
