@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "07e6c69f17d07571",
+        "id": "7426a1f55adccadd",
         "type": "tabs",
         "children": [
           {
-            "id": "9ce9f137e617807d",
+            "id": "b574372ae0c82692",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "JavaGuide",
-                "staged": false
+                "file": "JavaGuide/docs/java/basis/serialization.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -68,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "366ca889036d6d5e",
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaGuide/docs/java/basis/serialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaGuide/docs/java/basis/serialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavaGuide/docs/java/basis/serialization.md"
+              }
             }
           },
           {
@@ -149,10 +155,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "9ce9f137e617807d",
+  "active": "b574372ae0c82692",
   "lastOpenFiles": [
     "JavaGuide/README.md",
     "目錄.md",
+    "JavaGuide/docs/java/basis/why-there-only-value-passing-in-java.md",
     "MySQL数据库实战/mysql目錄.md",
     "MySQL数据库实战/5 Python操作MySQL和实战/day29.md",
     "MySQL数据库实战/2 必备SQL和表关系及授权/day26.md",
