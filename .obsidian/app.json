@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "MySQL数据库实战"
+  "attachmentFolderPath": "MySQL数据库实战",
+  "promptDelete": false
 }
