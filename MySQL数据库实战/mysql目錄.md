@@ -1,0 +1,5 @@
+[mysql基礎](obsidian://open?vault=my_node&file=MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E6%88%98%2F1%20MySQL%E5%85%A5%E9%97%A8%2F%E7%AC%94%E8%AE%B0%2Fday25)
+[mysql表關係，授權](obsidian://open?vault=my_node&file=MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E6%88%98%2F2%20%E5%BF%85%E5%A4%87SQL%E5%92%8C%E8%A1%A8%E5%85%B3%E7%B3%BB%E5%8F%8A%E6%8E%88%E6%9D%83%2Fday26)
+[mysqlg實踐](obsidian://open?vault=my_node&file=MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E6%88%98%2F3%20SQL%E5%BC%BA%E5%8C%96%E5%92%8C%E5%AE%9E%E8%B7%B5%2Fday27%E5%90%AB%E7%AD%94%E6%A1%88)
+[mysql索引，存儲](obsidian://open?vault=my_node&file=MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E6%88%98%2F4%20%E7%B4%A2%E5%BC%95%E5%92%8C%E5%87%BD%E6%95%B0%E5%8F%8A%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%2Fday28)
+[mysql pyyhon操作](obsidian://open?vault=my_node&file=MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E6%88%98%2F5%20Python%E6%93%8D%E4%BD%9CMySQL%E5%92%8C%E5%AE%9E%E6%88%98%2Fday29)

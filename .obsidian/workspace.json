@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9770f6e2753ad493",
+        "id": "cd76de1a51faa600",
         "type": "tabs",
         "children": [
           {
-            "id": "83231fa9737db0a0",
+            "id": "9d1b19654238bfcb",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "JavaGuide",
-                "staged": false
+                "file": "目錄.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "目錄.md"
+              }
             }
           },
           {
@@ -149,8 +154,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "83231fa9737db0a0",
+  "active": "9d1b19654238bfcb",
   "lastOpenFiles": [
-    "JavaGuide/README.md"
+    "MySQL数据库实战/mysql目錄.md",
+    "MySQL数据库实战/5 Python操作MySQL和实战/day29.md",
+    "MySQL数据库实战/2 必备SQL和表关系及授权/day26.md",
+    "MySQL数据库实战/1 MySQL入门/笔记/day25.md",
+    "目錄.md",
+    "JavaGuide/README.md",
+    "MySQL数据库实战/3 SQL强化和实践/day27含答案.md",
+    "JavaGuide/docs/javaguide/intro.md",
+    "JavaGuide/README.en.md"
   ]
 }
