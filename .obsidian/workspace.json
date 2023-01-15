@@ -11,8 +11,11 @@
             "id": "9ce9f137e617807d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "JavaGuide",
+                "staged": false
+              }
             }
           }
         ]
@@ -146,7 +149,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1f2abc18f5994686",
+  "active": "9ce9f137e617807d",
   "lastOpenFiles": [
     "JavaGuide/README.md",
     "目錄.md",
